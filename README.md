@@ -1,5 +1,6 @@
 # Processing
 My early work with Processing 2 building simple image manipulations and arcade style games.
+My style is not terrific and I would implement a lot of this differently now than I did then, but the applications themselves work pretty well.
 
 # How to see projects:
 Download individual folders that seem interesting and run them with Processing. 
